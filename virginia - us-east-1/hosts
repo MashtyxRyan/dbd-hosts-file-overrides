@@ -19,9 +19,9 @@
 # 127.0.0.1 localhost
 # ::1       localhost
 
-# 0.0.0.0 gamelift-ping.us-east-1.api.aws
+  0.0.0.0 gamelift-ping.us-east-1.api.aws
   0.0.0.0 gamelift-ping.us-east-2.api.aws
-  0.0.0.0 gamelift-ping.us-west-1.api.aws
+ # 0.0.0.0 gamelift-ping.us-west-1.api.aws
   0.0.0.0 gamelift-ping.us-west-2.api.aws
   0.0.0.0 gamelift-ping.eu-central-1.api.aws
   0.0.0.0 gamelift-ping.eu-west-1.api.aws
